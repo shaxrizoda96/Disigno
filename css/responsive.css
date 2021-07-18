@@ -1,0 +1,198 @@
+@media (max-width: 992px) {
+    .container {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+
+    .nav-link {
+        margin: 0 10px;
+    }
+
+    .frame-title {
+        text-align: center;
+    }
+
+    .frame-page {
+        text-align: center;
+    }
+
+    .frame-inner {
+        padding: 60px 70px 0;
+        background-position: center;
+    }
+
+    .header-button {
+        text-align: center;
+        margin-bottom: 69px;
+    }
+
+    .frame-picture {
+        text-align: center;
+
+    }
+
+    .frame-img {
+        margin-left: 0px;
+    }
+
+    .design-img {
+        width: 744px;
+        Height: 200px;
+        margin-bottom: 27px;
+        border-radius: 15px;
+    }
+
+    .disign-img:last-child {
+        margin-right: 27px;
+    }
+
+    .design-text {
+        top: -37px;
+    }
+
+    .graphic-box {
+        margin-top: 0px;
+    }
+
+    .friendly-img {
+        display: inline;
+    }
+
+    .friendly-texts {
+        display: flex;
+    }
+
+    .friendly-title {
+        text-align: left;
+        margin-top: 63px;
+        margin-bottom: 16px;
+        margin-left: 48px;
+    }
+
+    .friendly-page {
+        text-align: left;
+        padding-bottom: 32px;
+        margin-left: 48px;
+    }
+
+    .friendly {
+        padding-bottom: 371px;
+    }
+
+    .project-inner {
+        padding: 57px 59px;
+
+    }
+
+    .project-title {
+        width: 335px;
+        height: 98px;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    .project-page {
+        width: 573px;
+        height: 52px;
+        text-align: center;
+        margin-bottom: 32px;
+    }
+
+    .project-links {
+        text-align: center;
+        margin: 0px;
+    }
+
+    .about-project {
+        top: -258px;
+    }
+
+    .footer-col {
+        display: inline;
+        width: 157px;
+        height: 27px;
+    }
+
+    .navs {
+        justify-content: flex-end;
+    }
+
+    .footer-nav-item {
+        margin: 0px 21px;
+        align-items: flex-start;
+    }
+
+    .footer-adres {
+        width: 33%;
+    }
+
+    .about-page {
+        margin: 0px 50px 86px 95px;
+    }
+
+    .about-img {
+        width: 100%;
+        height: 60vh;
+    }
+
+    .real-page {
+        padding: 0px 94px 56px 95px;
+    }
+
+    .talant-img {
+        width: 100%;
+        height: 75vh;
+    }
+
+    .img-picture {
+        width: 100%;
+
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 577px;
+    }
+
+    .icons {
+        margin-right: 0px;
+    }
+
+    .design-img {
+        width: 559px;
+    }
+
+    .navs {
+        justify-content: space-between;
+    }
+
+    .footer-col {
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        max-width: 480px;
+    }
+
+    .design-imd {
+        width: 550px;
+        height: 400px;
+    }
+
+    .friendly-img {
+        width: 100%;
+    }
+    .talent-title {
+        text-align: center;
+    }
+    .talant-page {
+        padding: 0px 9px 75px 0px;
+    width: 572px;
+
+    }
+}
